@@ -1,5 +1,5 @@
 {
-  "name": "string-replace-loader",
+  "name": "replace-string-with-filename-loader",
   "version": "2.3.0",
   "description": "Replace loader for Webpack",
   "keywords": [
